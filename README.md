@@ -1,7 +1,5 @@
 # FSWD-Udemy
-The Exercise in the 10 Hours of React just added. To Become a Developer of HTML, CSS, JavaScript, React, Node, MongoDB and More!
-Daily learing on Full Stack Web Developer. with over 72+ hours of learning.
-Throughout the course I will cover tons of tools and technologies including:
+The Exercise in the 10 Hours of React just added. To Become a Developer of HTML, CSS, JavaScript, React, Node, MongoDB and More!Daily learning on Full Stack Web Developer. with over 72+ hours of learning. Throughout the course, I will cover tons of tools and technologies including:
 HTML5
 CSS3
 Flexbox
@@ -14,9 +12,7 @@ ReactJS
 SemanticUI
 Bulma CSS Framework
 DOM Manipulation
-Unix(Command Line) Commands
-NodeJS
-NPM
+Unix(Command Line) Command NodeJS NPM
 ExpressJS
 Templating
 REST
@@ -32,5 +28,4 @@ Common Security Issues - SQL Injection, XSS, etc.
 Developer Best Practices
 Deploying Apps
 Cloud Databases
-Image Upload and Storage
-And last Maps and Geocoding.
+Image Upload and Storage And Last Maps and Geocoding.
