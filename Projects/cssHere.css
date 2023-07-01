@@ -1,0 +1,33 @@
+body {
+    transition: 2s; background-color ;
+    }
+
+
+    .center-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 50vh; /* Adjust this value based on your requirements */
+      }
+      
+      .center-container h3,
+      .center-container input,
+      .center-container button {
+        margin-bottom: 10px;
+      }
+      
+      button {
+        /* Button styles */
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: black ;
+        border: none;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        /* Hover effect styles */
+        background-color: #45a049;
+      }
+      
