@@ -652,3 +652,1296 @@ section32/installingPackages/node_modules/colors/lib/maps/zebra.js
 section32/installingPackages/node_modules/colors/lib/system/has-flag.js
 section32/installingPackages/node_modules/colors/lib/system/supports-colors.js
 section32/installingPackages/node_modules/colors/themes/generic-logging.js
+section32/node-group-chat-master/package-lock.json
+section32/node-group-chat-master/package.json
+section32/node-group-chat-master/README.md
+section32/node-group-chat-master/node_modules/.package-lock.json
+section32/node-group-chat-master/node_modules/.bin/mime
+section32/node-group-chat-master/node_modules/.bin/mime.cmd
+section32/node-group-chat-master/node_modules/.bin/mime.ps1
+section32/node-group-chat-master/node_modules/accepts/HISTORY.md
+section32/node-group-chat-master/node_modules/accepts/index.js
+section32/node-group-chat-master/node_modules/accepts/LICENSE
+section32/node-group-chat-master/node_modules/accepts/package.json
+section32/node-group-chat-master/node_modules/accepts/README.md
+section32/node-group-chat-master/node_modules/after/.npmignore
+section32/node-group-chat-master/node_modules/after/.travis.yml
+section32/node-group-chat-master/node_modules/after/index.js
+section32/node-group-chat-master/node_modules/after/LICENCE
+section32/node-group-chat-master/node_modules/after/package.json
+section32/node-group-chat-master/node_modules/after/README.md
+section32/node-group-chat-master/node_modules/after/test/after-test.js
+section32/node-group-chat-master/node_modules/array-flatten/array-flatten.js
+section32/node-group-chat-master/node_modules/array-flatten/LICENSE
+section32/node-group-chat-master/node_modules/array-flatten/package.json
+section32/node-group-chat-master/node_modules/array-flatten/README.md
+section32/node-group-chat-master/node_modules/arraybuffer.slice/.npmignore
+section32/node-group-chat-master/node_modules/arraybuffer.slice/index.js
+section32/node-group-chat-master/node_modules/arraybuffer.slice/LICENCE
+section32/node-group-chat-master/node_modules/arraybuffer.slice/Makefile
+section32/node-group-chat-master/node_modules/arraybuffer.slice/package.json
+section32/node-group-chat-master/node_modules/arraybuffer.slice/README.md
+section32/node-group-chat-master/node_modules/arraybuffer.slice/test/slice-buffer.js
+section32/node-group-chat-master/node_modules/async-limiter/.travis.yml
+section32/node-group-chat-master/node_modules/async-limiter/index.js
+section32/node-group-chat-master/node_modules/async-limiter/LICENSE
+section32/node-group-chat-master/node_modules/async-limiter/package.json
+section32/node-group-chat-master/node_modules/async-limiter/readme.md
+section32/node-group-chat-master/node_modules/async-limiter/coverage/coverage.json
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov.info
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/base.css
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/index.html
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/prettify.css
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/prettify.js
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/sort-arrow-sprite.png
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/sorter.js
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.html
+section32/node-group-chat-master/node_modules/async-limiter/coverage/lcov-report/async-throttle/index.js.html
+section32/node-group-chat-master/node_modules/backo2/.npmignore
+section32/node-group-chat-master/node_modules/backo2/component.json
+section32/node-group-chat-master/node_modules/backo2/History.md
+section32/node-group-chat-master/node_modules/backo2/index.js
+section32/node-group-chat-master/node_modules/backo2/Makefile
+section32/node-group-chat-master/node_modules/backo2/package.json
+section32/node-group-chat-master/node_modules/backo2/Readme.md
+section32/node-group-chat-master/node_modules/backo2/test/index.js
+section32/node-group-chat-master/node_modules/base64-arraybuffer/.npmignore
+section32/node-group-chat-master/node_modules/base64-arraybuffer/.travis.yml
+section32/node-group-chat-master/node_modules/base64-arraybuffer/LICENSE-MIT
+section32/node-group-chat-master/node_modules/base64-arraybuffer/package.json
+section32/node-group-chat-master/node_modules/base64-arraybuffer/README.md
+section32/node-group-chat-master/node_modules/base64-arraybuffer/lib/base64-arraybuffer.js
+section32/node-group-chat-master/node_modules/base64id/.npmignore
+section32/node-group-chat-master/node_modules/base64id/LICENSE
+section32/node-group-chat-master/node_modules/base64id/package.json
+section32/node-group-chat-master/node_modules/base64id/README.md
+section32/node-group-chat-master/node_modules/base64id/lib/base64id.js
+section32/node-group-chat-master/node_modules/better-assert/.npmignore
+section32/node-group-chat-master/node_modules/better-assert/example.js
+section32/node-group-chat-master/node_modules/better-assert/History.md
+section32/node-group-chat-master/node_modules/better-assert/index.js
+section32/node-group-chat-master/node_modules/better-assert/Makefile
+section32/node-group-chat-master/node_modules/better-assert/package.json
+section32/node-group-chat-master/node_modules/better-assert/Readme.md
+section32/node-group-chat-master/node_modules/blob/.zuul.yml
+section32/node-group-chat-master/node_modules/blob/component.json
+section32/node-group-chat-master/node_modules/blob/index.js
+section32/node-group-chat-master/node_modules/blob/LICENSE
+section32/node-group-chat-master/node_modules/blob/Makefile
+section32/node-group-chat-master/node_modules/blob/package.json
+section32/node-group-chat-master/node_modules/blob/README.md
+section32/node-group-chat-master/node_modules/blob/.idea/blob.iml
+section32/node-group-chat-master/node_modules/blob/.idea/markdown-navigator.xml
+section32/node-group-chat-master/node_modules/blob/.idea/modules.xml
+section32/node-group-chat-master/node_modules/blob/.idea/vcs.xml
+section32/node-group-chat-master/node_modules/blob/.idea/workspace.xml
+section32/node-group-chat-master/node_modules/blob/.idea/inspectionProfiles/profiles_settings.xml
+section32/node-group-chat-master/node_modules/blob/.idea/markdown-navigator/profiles_settings.xml
+section32/node-group-chat-master/node_modules/blob/test/index.js
+section32/node-group-chat-master/node_modules/body-parser/HISTORY.md
+section32/node-group-chat-master/node_modules/body-parser/index.js
+section32/node-group-chat-master/node_modules/body-parser/LICENSE
+section32/node-group-chat-master/node_modules/body-parser/package.json
+section32/node-group-chat-master/node_modules/body-parser/README.md
+section32/node-group-chat-master/node_modules/body-parser/lib/read.js
+section32/node-group-chat-master/node_modules/body-parser/lib/types/json.js
+section32/node-group-chat-master/node_modules/body-parser/lib/types/raw.js
+section32/node-group-chat-master/node_modules/body-parser/lib/types/text.js
+section32/node-group-chat-master/node_modules/body-parser/lib/types/urlencoded.js
+section32/node-group-chat-master/node_modules/bytes/History.md
+section32/node-group-chat-master/node_modules/bytes/index.js
+section32/node-group-chat-master/node_modules/bytes/LICENSE
+section32/node-group-chat-master/node_modules/bytes/package.json
+section32/node-group-chat-master/node_modules/bytes/Readme.md
+section32/node-group-chat-master/node_modules/callsite/.npmignore
+section32/node-group-chat-master/node_modules/callsite/History.md
+section32/node-group-chat-master/node_modules/callsite/index.js
+section32/node-group-chat-master/node_modules/callsite/Makefile
+section32/node-group-chat-master/node_modules/callsite/package.json
+section32/node-group-chat-master/node_modules/callsite/Readme.md
+section32/node-group-chat-master/node_modules/component-bind/.npmignore
+section32/node-group-chat-master/node_modules/component-bind/component.json
+section32/node-group-chat-master/node_modules/component-bind/History.md
+section32/node-group-chat-master/node_modules/component-bind/index.js
+section32/node-group-chat-master/node_modules/component-bind/Makefile
+section32/node-group-chat-master/node_modules/component-bind/package.json
+section32/node-group-chat-master/node_modules/component-bind/Readme.md
+section32/node-group-chat-master/node_modules/component-emitter/History.md
+section32/node-group-chat-master/node_modules/component-emitter/index.js
+section32/node-group-chat-master/node_modules/component-emitter/LICENSE
+section32/node-group-chat-master/node_modules/component-emitter/package.json
+section32/node-group-chat-master/node_modules/component-emitter/Readme.md
+section32/node-group-chat-master/node_modules/component-inherit/.npmignore
+section32/node-group-chat-master/node_modules/component-inherit/component.json
+section32/node-group-chat-master/node_modules/component-inherit/History.md
+section32/node-group-chat-master/node_modules/component-inherit/index.js
+section32/node-group-chat-master/node_modules/component-inherit/Makefile
+section32/node-group-chat-master/node_modules/component-inherit/package.json
+section32/node-group-chat-master/node_modules/component-inherit/Readme.md
+section32/node-group-chat-master/node_modules/component-inherit/test/inherit.js
+section32/node-group-chat-master/node_modules/content-disposition/HISTORY.md
+section32/node-group-chat-master/node_modules/content-disposition/index.js
+section32/node-group-chat-master/node_modules/content-disposition/LICENSE
+section32/node-group-chat-master/node_modules/content-disposition/package.json
+section32/node-group-chat-master/node_modules/content-disposition/README.md
+section32/node-group-chat-master/node_modules/content-type/HISTORY.md
+section32/node-group-chat-master/node_modules/content-type/index.js
+section32/node-group-chat-master/node_modules/content-type/LICENSE
+section32/node-group-chat-master/node_modules/content-type/package.json
+section32/node-group-chat-master/node_modules/content-type/README.md
+section32/node-group-chat-master/node_modules/cookie/HISTORY.md
+section32/node-group-chat-master/node_modules/cookie/index.js
+section32/node-group-chat-master/node_modules/cookie/LICENSE
+section32/node-group-chat-master/node_modules/cookie/package.json
+section32/node-group-chat-master/node_modules/cookie/README.md
+section32/node-group-chat-master/node_modules/cookie-signature/.npmignore
+section32/node-group-chat-master/node_modules/cookie-signature/History.md
+section32/node-group-chat-master/node_modules/cookie-signature/index.js
+section32/node-group-chat-master/node_modules/cookie-signature/package.json
+section32/node-group-chat-master/node_modules/cookie-signature/Readme.md
+section32/node-group-chat-master/node_modules/debug/.coveralls.yml
+section32/node-group-chat-master/node_modules/debug/.eslintrc
+section32/node-group-chat-master/node_modules/debug/.npmignore
+section32/node-group-chat-master/node_modules/debug/.travis.yml
+section32/node-group-chat-master/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/debug/component.json
+section32/node-group-chat-master/node_modules/debug/karma.conf.js
+section32/node-group-chat-master/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/debug/Makefile
+section32/node-group-chat-master/node_modules/debug/node.js
+section32/node-group-chat-master/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/debug/src/debug.js
+section32/node-group-chat-master/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/debug/src/inspector-log.js
+section32/node-group-chat-master/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/depd/History.md
+section32/node-group-chat-master/node_modules/depd/index.js
+section32/node-group-chat-master/node_modules/depd/LICENSE
+section32/node-group-chat-master/node_modules/depd/package.json
+section32/node-group-chat-master/node_modules/depd/Readme.md
+section32/node-group-chat-master/node_modules/depd/lib/browser/index.js
+section32/node-group-chat-master/node_modules/depd/lib/compat/callsite-tostring.js
+section32/node-group-chat-master/node_modules/depd/lib/compat/event-listener-count.js
+section32/node-group-chat-master/node_modules/depd/lib/compat/index.js
+section32/node-group-chat-master/node_modules/destroy/index.js
+section32/node-group-chat-master/node_modules/destroy/LICENSE
+section32/node-group-chat-master/node_modules/destroy/package.json
+section32/node-group-chat-master/node_modules/destroy/README.md
+section32/node-group-chat-master/node_modules/ee-first/index.js
+section32/node-group-chat-master/node_modules/ee-first/LICENSE
+section32/node-group-chat-master/node_modules/ee-first/package.json
+section32/node-group-chat-master/node_modules/ee-first/README.md
+section32/node-group-chat-master/node_modules/ejs/ejs.js
+section32/node-group-chat-master/node_modules/ejs/ejs.min.js
+section32/node-group-chat-master/node_modules/ejs/Jakefile
+section32/node-group-chat-master/node_modules/ejs/LICENSE
+section32/node-group-chat-master/node_modules/ejs/package.json
+section32/node-group-chat-master/node_modules/ejs/README.md
+section32/node-group-chat-master/node_modules/ejs/lib/ejs.js
+section32/node-group-chat-master/node_modules/ejs/lib/utils.js
+section32/node-group-chat-master/node_modules/encodeurl/HISTORY.md
+section32/node-group-chat-master/node_modules/encodeurl/index.js
+section32/node-group-chat-master/node_modules/encodeurl/LICENSE
+section32/node-group-chat-master/node_modules/encodeurl/package.json
+section32/node-group-chat-master/node_modules/encodeurl/README.md
+section32/node-group-chat-master/node_modules/engine.io/LICENSE
+section32/node-group-chat-master/node_modules/engine.io/package.json
+section32/node-group-chat-master/node_modules/engine.io/README.md
+section32/node-group-chat-master/node_modules/engine.io/lib/engine.io.js
+section32/node-group-chat-master/node_modules/engine.io/lib/server.js
+section32/node-group-chat-master/node_modules/engine.io/lib/socket.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transport.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transports/index.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transports/polling-jsonp.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transports/polling-xhr.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transports/polling.js
+section32/node-group-chat-master/node_modules/engine.io/lib/transports/websocket.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/.coveralls.yml
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/.eslintrc
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/.npmignore
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/.travis.yml
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/karma.conf.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/Makefile
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/node.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/src/debug.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/engine.io/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/engine.io-client/engine.io.js
+section32/node-group-chat-master/node_modules/engine.io-client/LICENSE
+section32/node-group-chat-master/node_modules/engine.io-client/package.json
+section32/node-group-chat-master/node_modules/engine.io-client/README.md
+section32/node-group-chat-master/node_modules/engine.io-client/lib/index.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/socket.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transport.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/xmlhttprequest.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transports/index.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transports/polling-jsonp.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transports/polling-xhr.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transports/polling.js
+section32/node-group-chat-master/node_modules/engine.io-client/lib/transports/websocket.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/.coveralls.yml
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/.eslintrc
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/.npmignore
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/.travis.yml
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/karma.conf.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/Makefile
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/node.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/src/debug.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/engine.io-client/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/engine.io-parser/LICENSE
+section32/node-group-chat-master/node_modules/engine.io-parser/package.json
+section32/node-group-chat-master/node_modules/engine.io-parser/Readme.md
+section32/node-group-chat-master/node_modules/engine.io-parser/lib/browser.js
+section32/node-group-chat-master/node_modules/engine.io-parser/lib/index.js
+section32/node-group-chat-master/node_modules/engine.io-parser/lib/keys.js
+section32/node-group-chat-master/node_modules/engine.io-parser/lib/utf8.js
+section32/node-group-chat-master/node_modules/escape-html/index.js
+section32/node-group-chat-master/node_modules/escape-html/LICENSE
+section32/node-group-chat-master/node_modules/escape-html/package.json
+section32/node-group-chat-master/node_modules/escape-html/Readme.md
+section32/node-group-chat-master/node_modules/etag/HISTORY.md
+section32/node-group-chat-master/node_modules/etag/index.js
+section32/node-group-chat-master/node_modules/etag/LICENSE
+section32/node-group-chat-master/node_modules/etag/package.json
+section32/node-group-chat-master/node_modules/etag/README.md
+section32/node-group-chat-master/node_modules/express/History.md
+section32/node-group-chat-master/node_modules/express/index.js
+section32/node-group-chat-master/node_modules/express/LICENSE
+section32/node-group-chat-master/node_modules/express/package.json
+section32/node-group-chat-master/node_modules/express/Readme.md
+section32/node-group-chat-master/node_modules/express/lib/application.js
+section32/node-group-chat-master/node_modules/express/lib/express.js
+section32/node-group-chat-master/node_modules/express/lib/request.js
+section32/node-group-chat-master/node_modules/express/lib/response.js
+section32/node-group-chat-master/node_modules/express/lib/utils.js
+section32/node-group-chat-master/node_modules/express/lib/view.js
+section32/node-group-chat-master/node_modules/express/lib/middleware/init.js
+section32/node-group-chat-master/node_modules/express/lib/middleware/query.js
+section32/node-group-chat-master/node_modules/express/lib/router/index.js
+section32/node-group-chat-master/node_modules/express/lib/router/layer.js
+section32/node-group-chat-master/node_modules/express/lib/router/route.js
+section32/node-group-chat-master/node_modules/finalhandler/HISTORY.md
+section32/node-group-chat-master/node_modules/finalhandler/index.js
+section32/node-group-chat-master/node_modules/finalhandler/LICENSE
+section32/node-group-chat-master/node_modules/finalhandler/package.json
+section32/node-group-chat-master/node_modules/finalhandler/README.md
+section32/node-group-chat-master/node_modules/forwarded/HISTORY.md
+section32/node-group-chat-master/node_modules/forwarded/index.js
+section32/node-group-chat-master/node_modules/forwarded/LICENSE
+section32/node-group-chat-master/node_modules/forwarded/package.json
+section32/node-group-chat-master/node_modules/forwarded/README.md
+section32/node-group-chat-master/node_modules/fresh/HISTORY.md
+section32/node-group-chat-master/node_modules/fresh/index.js
+section32/node-group-chat-master/node_modules/fresh/LICENSE
+section32/node-group-chat-master/node_modules/fresh/package.json
+section32/node-group-chat-master/node_modules/fresh/README.md
+section32/node-group-chat-master/node_modules/has-binary2/History.md
+section32/node-group-chat-master/node_modules/has-binary2/index.js
+section32/node-group-chat-master/node_modules/has-binary2/LICENSE
+section32/node-group-chat-master/node_modules/has-binary2/package.json
+section32/node-group-chat-master/node_modules/has-binary2/README.md
+section32/node-group-chat-master/node_modules/has-cors/.npmignore
+section32/node-group-chat-master/node_modules/has-cors/component.json
+section32/node-group-chat-master/node_modules/has-cors/History.md
+section32/node-group-chat-master/node_modules/has-cors/index.js
+section32/node-group-chat-master/node_modules/has-cors/Makefile
+section32/node-group-chat-master/node_modules/has-cors/package.json
+section32/node-group-chat-master/node_modules/has-cors/Readme.md
+section32/node-group-chat-master/node_modules/has-cors/test.js
+section32/node-group-chat-master/node_modules/http-errors/HISTORY.md
+section32/node-group-chat-master/node_modules/http-errors/index.js
+section32/node-group-chat-master/node_modules/http-errors/LICENSE
+section32/node-group-chat-master/node_modules/http-errors/package.json
+section32/node-group-chat-master/node_modules/http-errors/README.md
+section32/node-group-chat-master/node_modules/iconv-lite/.travis.yml
+section32/node-group-chat-master/node_modules/iconv-lite/Changelog.md
+section32/node-group-chat-master/node_modules/iconv-lite/LICENSE
+section32/node-group-chat-master/node_modules/iconv-lite/package.json
+section32/node-group-chat-master/node_modules/iconv-lite/README.md
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/dbcs-codec.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/dbcs-data.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/index.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/internal.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/sbcs-codec.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/sbcs-data-generated.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/sbcs-data.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/utf7.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/utf16.js
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/big5-added.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/cp936.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/cp949.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/cp950.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/eucjp.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/gbk-added.json
+section32/node-group-chat-master/node_modules/iconv-lite/encodings/tables/shiftjis.json
+section32/node-group-chat-master/node_modules/iconv-lite/lib/bom-handling.js
+section32/node-group-chat-master/node_modules/iconv-lite/lib/extend-node.js
+section32/node-group-chat-master/node_modules/iconv-lite/lib/index.d.ts
+section32/node-group-chat-master/node_modules/iconv-lite/lib/index.js
+section32/node-group-chat-master/node_modules/iconv-lite/lib/streams.js
+section32/node-group-chat-master/node_modules/indexof/.npmignore
+section32/node-group-chat-master/node_modules/indexof/component.json
+section32/node-group-chat-master/node_modules/indexof/index.js
+section32/node-group-chat-master/node_modules/indexof/Makefile
+section32/node-group-chat-master/node_modules/indexof/package.json
+section32/node-group-chat-master/node_modules/indexof/Readme.md
+section32/node-group-chat-master/node_modules/inherits/inherits_browser.js
+section32/node-group-chat-master/node_modules/inherits/inherits.js
+section32/node-group-chat-master/node_modules/inherits/LICENSE
+section32/node-group-chat-master/node_modules/inherits/package.json
+section32/node-group-chat-master/node_modules/inherits/README.md
+section32/node-group-chat-master/node_modules/ipaddr.js/ipaddr.min.js
+section32/node-group-chat-master/node_modules/ipaddr.js/package.json
+section32/node-group-chat-master/node_modules/ipaddr.js/README.md
+section32/node-group-chat-master/node_modules/ipaddr.js/lib/ipaddr.js
+section32/node-group-chat-master/node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+section32/node-group-chat-master/node_modules/isarray/index.js
+section32/node-group-chat-master/node_modules/isarray/package.json
+section32/node-group-chat-master/node_modules/isarray/README.md
+section32/node-group-chat-master/node_modules/media-typer/HISTORY.md
+section32/node-group-chat-master/node_modules/media-typer/index.js
+section32/node-group-chat-master/node_modules/media-typer/LICENSE
+section32/node-group-chat-master/node_modules/media-typer/package.json
+section32/node-group-chat-master/node_modules/media-typer/README.md
+section32/node-group-chat-master/node_modules/merge-descriptors/HISTORY.md
+section32/node-group-chat-master/node_modules/merge-descriptors/index.js
+section32/node-group-chat-master/node_modules/merge-descriptors/LICENSE
+section32/node-group-chat-master/node_modules/merge-descriptors/package.json
+section32/node-group-chat-master/node_modules/merge-descriptors/README.md
+section32/node-group-chat-master/node_modules/methods/HISTORY.md
+section32/node-group-chat-master/node_modules/methods/index.js
+section32/node-group-chat-master/node_modules/methods/LICENSE
+section32/node-group-chat-master/node_modules/methods/package.json
+section32/node-group-chat-master/node_modules/methods/README.md
+section32/node-group-chat-master/node_modules/mime/cli.js
+section32/node-group-chat-master/node_modules/mime/LICENSE
+section32/node-group-chat-master/node_modules/mime/mime.js
+section32/node-group-chat-master/node_modules/mime/package.json
+section32/node-group-chat-master/node_modules/mime/README.md
+section32/node-group-chat-master/node_modules/mime/types.json
+section32/node-group-chat-master/node_modules/mime/build/build.js
+section32/node-group-chat-master/node_modules/mime/build/test.js
+section32/node-group-chat-master/node_modules/mime-db/db.json
+section32/node-group-chat-master/node_modules/mime-db/HISTORY.md
+section32/node-group-chat-master/node_modules/mime-db/index.js
+section32/node-group-chat-master/node_modules/mime-db/LICENSE
+section32/node-group-chat-master/node_modules/mime-db/package.json
+section32/node-group-chat-master/node_modules/mime-db/README.md
+section32/node-group-chat-master/node_modules/mime-types/HISTORY.md
+section32/node-group-chat-master/node_modules/mime-types/index.js
+section32/node-group-chat-master/node_modules/mime-types/LICENSE
+section32/node-group-chat-master/node_modules/mime-types/package.json
+section32/node-group-chat-master/node_modules/mime-types/README.md
+section32/node-group-chat-master/node_modules/ms/index.js
+section32/node-group-chat-master/node_modules/ms/license.md
+section32/node-group-chat-master/node_modules/ms/package.json
+section32/node-group-chat-master/node_modules/ms/readme.md
+section32/node-group-chat-master/node_modules/negotiator/HISTORY.md
+section32/node-group-chat-master/node_modules/negotiator/index.js
+section32/node-group-chat-master/node_modules/negotiator/LICENSE
+section32/node-group-chat-master/node_modules/negotiator/package.json
+section32/node-group-chat-master/node_modules/negotiator/README.md
+section32/node-group-chat-master/node_modules/negotiator/lib/charset.js
+section32/node-group-chat-master/node_modules/negotiator/lib/encoding.js
+section32/node-group-chat-master/node_modules/negotiator/lib/language.js
+section32/node-group-chat-master/node_modules/negotiator/lib/mediaType.js
+section32/node-group-chat-master/node_modules/object-component/.npmignore
+section32/node-group-chat-master/node_modules/object-component/component.json
+section32/node-group-chat-master/node_modules/object-component/History.md
+section32/node-group-chat-master/node_modules/object-component/index.js
+section32/node-group-chat-master/node_modules/object-component/Makefile
+section32/node-group-chat-master/node_modules/object-component/package.json
+section32/node-group-chat-master/node_modules/object-component/Readme.md
+section32/node-group-chat-master/node_modules/object-component/test/object.js
+section32/node-group-chat-master/node_modules/on-finished/HISTORY.md
+section32/node-group-chat-master/node_modules/on-finished/index.js
+section32/node-group-chat-master/node_modules/on-finished/LICENSE
+section32/node-group-chat-master/node_modules/on-finished/package.json
+section32/node-group-chat-master/node_modules/on-finished/README.md
+section32/node-group-chat-master/node_modules/parseqs/.npmignore
+section32/node-group-chat-master/node_modules/parseqs/index.js
+section32/node-group-chat-master/node_modules/parseqs/LICENSE
+section32/node-group-chat-master/node_modules/parseqs/Makefile
+section32/node-group-chat-master/node_modules/parseqs/package.json
+section32/node-group-chat-master/node_modules/parseqs/README.md
+section32/node-group-chat-master/node_modules/parseqs/test.js
+section32/node-group-chat-master/node_modules/parseuri/.npmignore
+section32/node-group-chat-master/node_modules/parseuri/History.md
+section32/node-group-chat-master/node_modules/parseuri/index.js
+section32/node-group-chat-master/node_modules/parseuri/LICENSE
+section32/node-group-chat-master/node_modules/parseuri/Makefile
+section32/node-group-chat-master/node_modules/parseuri/package.json
+section32/node-group-chat-master/node_modules/parseuri/README.md
+section32/node-group-chat-master/node_modules/parseuri/test.js
+section32/node-group-chat-master/node_modules/parseurl/HISTORY.md
+section32/node-group-chat-master/node_modules/parseurl/index.js
+section32/node-group-chat-master/node_modules/parseurl/LICENSE
+section32/node-group-chat-master/node_modules/parseurl/package.json
+section32/node-group-chat-master/node_modules/parseurl/README.md
+section32/node-group-chat-master/node_modules/path-to-regexp/History.md
+section32/node-group-chat-master/node_modules/path-to-regexp/index.js
+section32/node-group-chat-master/node_modules/path-to-regexp/LICENSE
+section32/node-group-chat-master/node_modules/path-to-regexp/package.json
+section32/node-group-chat-master/node_modules/path-to-regexp/Readme.md
+section32/node-group-chat-master/node_modules/proxy-addr/HISTORY.md
+section32/node-group-chat-master/node_modules/proxy-addr/index.js
+section32/node-group-chat-master/node_modules/proxy-addr/LICENSE
+section32/node-group-chat-master/node_modules/proxy-addr/package.json
+section32/node-group-chat-master/node_modules/proxy-addr/README.md
+section32/node-group-chat-master/node_modules/qs/.editorconfig
+section32/node-group-chat-master/node_modules/qs/.eslintignore
+section32/node-group-chat-master/node_modules/qs/.eslintrc
+section32/node-group-chat-master/node_modules/qs/CHANGELOG.md
+section32/node-group-chat-master/node_modules/qs/LICENSE
+section32/node-group-chat-master/node_modules/qs/package.json
+section32/node-group-chat-master/node_modules/qs/README.md
+section32/node-group-chat-master/node_modules/qs/dist/qs.js
+section32/node-group-chat-master/node_modules/qs/lib/formats.js
+section32/node-group-chat-master/node_modules/qs/lib/index.js
+section32/node-group-chat-master/node_modules/qs/lib/parse.js
+section32/node-group-chat-master/node_modules/qs/lib/stringify.js
+section32/node-group-chat-master/node_modules/qs/lib/utils.js
+section32/node-group-chat-master/node_modules/qs/test/.eslintrc
+section32/node-group-chat-master/node_modules/qs/test/index.js
+section32/node-group-chat-master/node_modules/qs/test/parse.js
+section32/node-group-chat-master/node_modules/qs/test/stringify.js
+section32/node-group-chat-master/node_modules/qs/test/utils.js
+section32/node-group-chat-master/node_modules/range-parser/HISTORY.md
+section32/node-group-chat-master/node_modules/range-parser/index.js
+section32/node-group-chat-master/node_modules/range-parser/LICENSE
+section32/node-group-chat-master/node_modules/range-parser/package.json
+section32/node-group-chat-master/node_modules/range-parser/README.md
+section32/node-group-chat-master/node_modules/raw-body/HISTORY.md
+section32/node-group-chat-master/node_modules/raw-body/index.d.ts
+section32/node-group-chat-master/node_modules/raw-body/index.js
+section32/node-group-chat-master/node_modules/raw-body/LICENSE
+section32/node-group-chat-master/node_modules/raw-body/package.json
+section32/node-group-chat-master/node_modules/raw-body/README.md
+section32/node-group-chat-master/node_modules/safe-buffer/index.d.ts
+section32/node-group-chat-master/node_modules/safe-buffer/index.js
+section32/node-group-chat-master/node_modules/safe-buffer/LICENSE
+section32/node-group-chat-master/node_modules/safe-buffer/package.json
+section32/node-group-chat-master/node_modules/safe-buffer/README.md
+section32/node-group-chat-master/node_modules/safer-buffer/dangerous.js
+section32/node-group-chat-master/node_modules/safer-buffer/LICENSE
+section32/node-group-chat-master/node_modules/safer-buffer/package.json
+section32/node-group-chat-master/node_modules/safer-buffer/Porting-Buffer.md
+section32/node-group-chat-master/node_modules/safer-buffer/Readme.md
+section32/node-group-chat-master/node_modules/safer-buffer/safer.js
+section32/node-group-chat-master/node_modules/safer-buffer/tests.js
+section32/node-group-chat-master/node_modules/send/HISTORY.md
+section32/node-group-chat-master/node_modules/send/index.js
+section32/node-group-chat-master/node_modules/send/LICENSE
+section32/node-group-chat-master/node_modules/send/package.json
+section32/node-group-chat-master/node_modules/send/README.md
+section32/node-group-chat-master/node_modules/serve-static/HISTORY.md
+section32/node-group-chat-master/node_modules/serve-static/index.js
+section32/node-group-chat-master/node_modules/serve-static/LICENSE
+section32/node-group-chat-master/node_modules/serve-static/package.json
+section32/node-group-chat-master/node_modules/serve-static/README.md
+section32/node-group-chat-master/node_modules/setprototypeof/index.d.ts
+section32/node-group-chat-master/node_modules/setprototypeof/index.js
+section32/node-group-chat-master/node_modules/setprototypeof/LICENSE
+section32/node-group-chat-master/node_modules/setprototypeof/package.json
+section32/node-group-chat-master/node_modules/setprototypeof/README.md
+section32/node-group-chat-master/node_modules/socket.io/LICENSE
+section32/node-group-chat-master/node_modules/socket.io/package.json
+section32/node-group-chat-master/node_modules/socket.io/Readme.md
+section32/node-group-chat-master/node_modules/socket.io/lib/client.js
+section32/node-group-chat-master/node_modules/socket.io/lib/index.js
+section32/node-group-chat-master/node_modules/socket.io/lib/namespace.js
+section32/node-group-chat-master/node_modules/socket.io/lib/parent-namespace.js
+section32/node-group-chat-master/node_modules/socket.io/lib/socket.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/dist/debug.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/src/common.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/ms/index.js
+section32/node-group-chat-master/node_modules/socket.io/node_modules/ms/license.md
+section32/node-group-chat-master/node_modules/socket.io/node_modules/ms/package.json
+section32/node-group-chat-master/node_modules/socket.io/node_modules/ms/readme.md
+section32/node-group-chat-master/node_modules/socket.io-adapter/.npmignore
+section32/node-group-chat-master/node_modules/socket.io-adapter/index.js
+section32/node-group-chat-master/node_modules/socket.io-adapter/LICENSE
+section32/node-group-chat-master/node_modules/socket.io-adapter/package.json
+section32/node-group-chat-master/node_modules/socket.io-adapter/Readme.md
+section32/node-group-chat-master/node_modules/socket.io-client/LICENSE
+section32/node-group-chat-master/node_modules/socket.io-client/package.json
+section32/node-group-chat-master/node_modules/socket.io-client/README.md
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.dev.js
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.dev.js.map
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.js
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.js.map
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.slim.dev.js
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.slim.dev.js.map
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.slim.js
+section32/node-group-chat-master/node_modules/socket.io-client/dist/socket.io.slim.js.map
+section32/node-group-chat-master/node_modules/socket.io-client/lib/index.js
+section32/node-group-chat-master/node_modules/socket.io-client/lib/manager.js
+section32/node-group-chat-master/node_modules/socket.io-client/lib/on.js
+section32/node-group-chat-master/node_modules/socket.io-client/lib/socket.js
+section32/node-group-chat-master/node_modules/socket.io-client/lib/url.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/.coveralls.yml
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/.eslintrc
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/.npmignore
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/.travis.yml
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/karma.conf.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/Makefile
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/node.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/src/debug.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/socket.io-client/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/socket.io-parser/binary.js
+section32/node-group-chat-master/node_modules/socket.io-parser/index.js
+section32/node-group-chat-master/node_modules/socket.io-parser/is-buffer.js
+section32/node-group-chat-master/node_modules/socket.io-parser/LICENSE
+section32/node-group-chat-master/node_modules/socket.io-parser/package.json
+section32/node-group-chat-master/node_modules/socket.io-parser/Readme.md
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/.coveralls.yml
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/.eslintrc
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/.npmignore
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/.travis.yml
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/CHANGELOG.md
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/karma.conf.js
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/LICENSE
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/Makefile
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/node.js
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/package.json
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/README.md
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/src/browser.js
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/src/debug.js
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/src/index.js
+section32/node-group-chat-master/node_modules/socket.io-parser/node_modules/debug/src/node.js
+section32/node-group-chat-master/node_modules/statuses/codes.json
+section32/node-group-chat-master/node_modules/statuses/HISTORY.md
+section32/node-group-chat-master/node_modules/statuses/index.js
+section32/node-group-chat-master/node_modules/statuses/LICENSE
+section32/node-group-chat-master/node_modules/statuses/package.json
+section32/node-group-chat-master/node_modules/statuses/README.md
+section32/node-group-chat-master/node_modules/to-array/.npmignore
+section32/node-group-chat-master/node_modules/to-array/index.js
+section32/node-group-chat-master/node_modules/to-array/LICENCE
+section32/node-group-chat-master/node_modules/to-array/package.json
+section32/node-group-chat-master/node_modules/to-array/README.md
+section32/node-group-chat-master/node_modules/type-is/HISTORY.md
+section32/node-group-chat-master/node_modules/type-is/index.js
+section32/node-group-chat-master/node_modules/type-is/LICENSE
+section32/node-group-chat-master/node_modules/type-is/package.json
+section32/node-group-chat-master/node_modules/type-is/README.md
+section32/node-group-chat-master/node_modules/unpipe/HISTORY.md
+section32/node-group-chat-master/node_modules/unpipe/index.js
+section32/node-group-chat-master/node_modules/unpipe/LICENSE
+section32/node-group-chat-master/node_modules/unpipe/package.json
+section32/node-group-chat-master/node_modules/unpipe/README.md
+section32/node-group-chat-master/node_modules/utils-merge/.npmignore
+section32/node-group-chat-master/node_modules/utils-merge/index.js
+section32/node-group-chat-master/node_modules/utils-merge/LICENSE
+section32/node-group-chat-master/node_modules/utils-merge/package.json
+section32/node-group-chat-master/node_modules/utils-merge/README.md
+section32/node-group-chat-master/node_modules/vary/HISTORY.md
+section32/node-group-chat-master/node_modules/vary/index.js
+section32/node-group-chat-master/node_modules/vary/LICENSE
+section32/node-group-chat-master/node_modules/vary/package.json
+section32/node-group-chat-master/node_modules/vary/README.md
+section32/node-group-chat-master/node_modules/ws/browser.js
+section32/node-group-chat-master/node_modules/ws/index.js
+section32/node-group-chat-master/node_modules/ws/LICENSE
+section32/node-group-chat-master/node_modules/ws/package.json
+section32/node-group-chat-master/node_modules/ws/README.md
+section32/node-group-chat-master/node_modules/ws/lib/buffer-util.js
+section32/node-group-chat-master/node_modules/ws/lib/constants.js
+section32/node-group-chat-master/node_modules/ws/lib/event-target.js
+section32/node-group-chat-master/node_modules/ws/lib/extension.js
+section32/node-group-chat-master/node_modules/ws/lib/permessage-deflate.js
+section32/node-group-chat-master/node_modules/ws/lib/receiver.js
+section32/node-group-chat-master/node_modules/ws/lib/sender.js
+section32/node-group-chat-master/node_modules/ws/lib/validation.js
+section32/node-group-chat-master/node_modules/ws/lib/websocket-server.js
+section32/node-group-chat-master/node_modules/ws/lib/websocket.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/autotest.watchr
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/LICENSE
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/package.json
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/README.md
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/example/demo.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-constants.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-events.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-exceptions.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-headers.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-redirect-302.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-redirect-303.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-redirect-307.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-request-methods.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/test-request-protocols.js
+section32/node-group-chat-master/node_modules/xmlhttprequest-ssl/tests/testdata.txt
+section32/node-group-chat-master/node_modules/yeast/index.js
+section32/node-group-chat-master/node_modules/yeast/LICENSE
+section32/node-group-chat-master/node_modules/yeast/package.json
+section32/node-group-chat-master/node_modules/yeast/README.md
+section32/node-group-chat-master/views/index.ejs
+section32/PackageJson/index.js
+section32/PackageJson/package-lock.json
+section32/PackageJson/package.json
+section32/PackageJson/node_modules/.package-lock.json
+section32/PackageJson/node_modules/.bin/figlet
+section32/PackageJson/node_modules/.bin/figlet.cmd
+section32/PackageJson/node_modules/.bin/figlet.ps1
+section32/PackageJson/node_modules/colors/index.d.ts
+section32/PackageJson/node_modules/colors/LICENSE
+section32/PackageJson/node_modules/colors/package.json
+section32/PackageJson/node_modules/colors/README.md
+section32/PackageJson/node_modules/colors/safe.d.ts
+section32/PackageJson/node_modules/colors/safe.js
+section32/PackageJson/node_modules/colors/examples/normal-usage.js
+section32/PackageJson/node_modules/colors/examples/safe-string.js
+section32/PackageJson/node_modules/colors/lib/colors.js
+section32/PackageJson/node_modules/colors/lib/extendStringPrototype.js
+section32/PackageJson/node_modules/colors/lib/index.js
+section32/PackageJson/node_modules/colors/lib/styles.js
+section32/PackageJson/node_modules/colors/lib/custom/trap.js
+section32/PackageJson/node_modules/colors/lib/custom/zalgo.js
+section32/PackageJson/node_modules/colors/lib/maps/america.js
+section32/PackageJson/node_modules/colors/lib/maps/rainbow.js
+section32/PackageJson/node_modules/colors/lib/maps/random.js
+section32/PackageJson/node_modules/colors/lib/maps/zebra.js
+section32/PackageJson/node_modules/colors/lib/system/has-flag.js
+section32/PackageJson/node_modules/colors/lib/system/supports-colors.js
+section32/PackageJson/node_modules/colors/themes/generic-logging.js
+section32/PackageJson/node_modules/figlet/.jshintrc
+section32/PackageJson/node_modules/figlet/.prettierignore
+section32/PackageJson/node_modules/figlet/.prettierrc.json
+section32/PackageJson/node_modules/figlet/.travis.yml
+section32/PackageJson/node_modules/figlet/Gruntfile.js
+section32/PackageJson/node_modules/figlet/LICENSE.txt
+section32/PackageJson/node_modules/figlet/package.json
+section32/PackageJson/node_modules/figlet/README.md
+section32/PackageJson/node_modules/figlet/.idea/figlet.js.iml
+section32/PackageJson/node_modules/figlet/.idea/misc.xml
+section32/PackageJson/node_modules/figlet/.idea/modules.xml
+section32/PackageJson/node_modules/figlet/.idea/prettier.xml
+section32/PackageJson/node_modules/figlet/.idea/vcs.xml
+section32/PackageJson/node_modules/figlet/.idea/inspectionProfiles/Project_Default.xml
+section32/PackageJson/node_modules/figlet/.idea/jsLinters/jshint.xml
+section32/PackageJson/node_modules/figlet/bin/index.js
+section32/PackageJson/node_modules/figlet/doc/figfont.txt
+section32/PackageJson/node_modules/figlet/examples/front-end/index.htm
+section32/PackageJson/node_modules/figlet/examples/node/app.js
+section32/PackageJson/node_modules/figlet/examples/node/appSync.js
+section32/PackageJson/node_modules/figlet/fonts/1Row.flf
+section32/PackageJson/node_modules/figlet/fonts/3-D.flf
+section32/PackageJson/node_modules/figlet/fonts/3D Diagonal.flf
+section32/PackageJson/node_modules/figlet/fonts/3D-ASCII.flf
+section32/PackageJson/node_modules/figlet/fonts/3x5.flf
+section32/PackageJson/node_modules/figlet/fonts/4Max.flf
+section32/PackageJson/node_modules/figlet/fonts/5 Line Oblique.flf
+section32/PackageJson/node_modules/figlet/fonts/Acrobatic.flf
+section32/PackageJson/node_modules/figlet/fonts/Alligator.flf
+section32/PackageJson/node_modules/figlet/fonts/Alligator2.flf
+section32/PackageJson/node_modules/figlet/fonts/Alpha.flf
+section32/PackageJson/node_modules/figlet/fonts/Alphabet.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC 3 Line.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC 3 Liv1.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC AAA01.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Neko.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Razor.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Razor2.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Slash.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Slider.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Thin.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Tubes.flf
+section32/PackageJson/node_modules/figlet/fonts/AMC Untitled.flf
+section32/PackageJson/node_modules/figlet/fonts/ANSI Regular.flf
+section32/PackageJson/node_modules/figlet/fonts/ANSI Shadow.flf
+section32/PackageJson/node_modules/figlet/fonts/Arrows.flf
+section32/PackageJson/node_modules/figlet/fonts/ASCII New Roman.flf
+section32/PackageJson/node_modules/figlet/fonts/Avatar.flf
+section32/PackageJson/node_modules/figlet/fonts/B1FF.flf
+section32/PackageJson/node_modules/figlet/fonts/Banner.flf
+section32/PackageJson/node_modules/figlet/fonts/Banner3-D.flf
+section32/PackageJson/node_modules/figlet/fonts/Banner3.flf
+section32/PackageJson/node_modules/figlet/fonts/Banner4.flf
+section32/PackageJson/node_modules/figlet/fonts/Barbwire.flf
+section32/PackageJson/node_modules/figlet/fonts/Basic.flf
+section32/PackageJson/node_modules/figlet/fonts/Bear.flf
+section32/PackageJson/node_modules/figlet/fonts/Bell.flf
+section32/PackageJson/node_modules/figlet/fonts/Benjamin.flf
+section32/PackageJson/node_modules/figlet/fonts/Big Chief.flf
+section32/PackageJson/node_modules/figlet/fonts/Big Money-ne.flf
+section32/PackageJson/node_modules/figlet/fonts/Big Money-nw.flf
+section32/PackageJson/node_modules/figlet/fonts/Big Money-se.flf
+section32/PackageJson/node_modules/figlet/fonts/Big Money-sw.flf
+section32/PackageJson/node_modules/figlet/fonts/Big.flf
+section32/PackageJson/node_modules/figlet/fonts/Bigfig.flf
+section32/PackageJson/node_modules/figlet/fonts/Binary.flf
+section32/PackageJson/node_modules/figlet/fonts/Block.flf
+section32/PackageJson/node_modules/figlet/fonts/Blocks.flf
+section32/PackageJson/node_modules/figlet/fonts/Bloody.flf
+section32/PackageJson/node_modules/figlet/fonts/Bolger.flf
+section32/PackageJson/node_modules/figlet/fonts/Braced.flf
+section32/PackageJson/node_modules/figlet/fonts/Bright.flf
+section32/PackageJson/node_modules/figlet/fonts/Broadway KB.flf
+section32/PackageJson/node_modules/figlet/fonts/Broadway.flf
+section32/PackageJson/node_modules/figlet/fonts/Bubble.flf
+section32/PackageJson/node_modules/figlet/fonts/Bulbhead.flf
+section32/PackageJson/node_modules/figlet/fonts/Caligraphy.flf
+section32/PackageJson/node_modules/figlet/fonts/Caligraphy2.flf
+section32/PackageJson/node_modules/figlet/fonts/Calvin S.flf
+section32/PackageJson/node_modules/figlet/fonts/Cards.flf
+section32/PackageJson/node_modules/figlet/fonts/Catwalk.flf
+section32/PackageJson/node_modules/figlet/fonts/Chiseled.flf
+section32/PackageJson/node_modules/figlet/fonts/Chunky.flf
+section32/PackageJson/node_modules/figlet/fonts/Coinstak.flf
+section32/PackageJson/node_modules/figlet/fonts/Cola.flf
+section32/PackageJson/node_modules/figlet/fonts/Colossal.flf
+section32/PackageJson/node_modules/figlet/fonts/Computer.flf
+section32/PackageJson/node_modules/figlet/fonts/Contessa.flf
+section32/PackageJson/node_modules/figlet/fonts/Contrast.flf
+section32/PackageJson/node_modules/figlet/fonts/Cosmike.flf
+section32/PackageJson/node_modules/figlet/fonts/Crawford.flf
+section32/PackageJson/node_modules/figlet/fonts/Crawford2.flf
+section32/PackageJson/node_modules/figlet/fonts/Crazy.flf
+section32/PackageJson/node_modules/figlet/fonts/Cricket.flf
+section32/PackageJson/node_modules/figlet/fonts/Cursive.flf
+section32/PackageJson/node_modules/figlet/fonts/Cyberlarge.flf
+section32/PackageJson/node_modules/figlet/fonts/Cybermedium.flf
+section32/PackageJson/node_modules/figlet/fonts/Cybersmall.flf
+section32/PackageJson/node_modules/figlet/fonts/Cygnet.flf
+section32/PackageJson/node_modules/figlet/fonts/DANC4.flf
+section32/PackageJson/node_modules/figlet/fonts/Dancing Font.flf
+section32/PackageJson/node_modules/figlet/fonts/Decimal.flf
+section32/PackageJson/node_modules/figlet/fonts/Def Leppard.flf
+section32/PackageJson/node_modules/figlet/fonts/Delta Corps Priest 1.flf
+section32/PackageJson/node_modules/figlet/fonts/Diamond.flf
+section32/PackageJson/node_modules/figlet/fonts/Diet Cola.flf
+section32/PackageJson/node_modules/figlet/fonts/Digital.flf
+section32/PackageJson/node_modules/figlet/fonts/Doh.flf
+section32/PackageJson/node_modules/figlet/fonts/Doom.flf
+section32/PackageJson/node_modules/figlet/fonts/DOS Rebel.flf
+section32/PackageJson/node_modules/figlet/fonts/Dot Matrix.flf
+section32/PackageJson/node_modules/figlet/fonts/Double Shorts.flf
+section32/PackageJson/node_modules/figlet/fonts/Double.flf
+section32/PackageJson/node_modules/figlet/fonts/Dr Pepper.flf
+section32/PackageJson/node_modules/figlet/fonts/DWhistled.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Chess.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Font.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Italic.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Piti.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Robot.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Wall.flf
+section32/PackageJson/node_modules/figlet/fonts/Efti Water.flf
+section32/PackageJson/node_modules/figlet/fonts/Electronic.flf
+section32/PackageJson/node_modules/figlet/fonts/Elite.flf
+section32/PackageJson/node_modules/figlet/fonts/Epic.flf
+section32/PackageJson/node_modules/figlet/fonts/Fender.flf
+section32/PackageJson/node_modules/figlet/fonts/Filter.flf
+section32/PackageJson/node_modules/figlet/fonts/Fire Font-k.flf
+section32/PackageJson/node_modules/figlet/fonts/Fire Font-s.flf
+section32/PackageJson/node_modules/figlet/fonts/Flipped.flf
+section32/PackageJson/node_modules/figlet/fonts/Flower Power.flf
+section32/PackageJson/node_modules/figlet/fonts/Four Tops.flf
+section32/PackageJson/node_modules/figlet/fonts/Fraktur.flf
+section32/PackageJson/node_modules/figlet/fonts/Fun Face.flf
+section32/PackageJson/node_modules/figlet/fonts/Fun Faces.flf
+section32/PackageJson/node_modules/figlet/fonts/Fuzzy.flf
+section32/PackageJson/node_modules/figlet/fonts/Georgi16.flf
+section32/PackageJson/node_modules/figlet/fonts/Georgia11.flf
+section32/PackageJson/node_modules/figlet/fonts/Ghost.flf
+section32/PackageJson/node_modules/figlet/fonts/Ghoulish.flf
+section32/PackageJson/node_modules/figlet/fonts/Glenyn.flf
+section32/PackageJson/node_modules/figlet/fonts/Goofy.flf
+section32/PackageJson/node_modules/figlet/fonts/Gothic.flf
+section32/PackageJson/node_modules/figlet/fonts/Graceful.flf
+section32/PackageJson/node_modules/figlet/fonts/Gradient.flf
+section32/PackageJson/node_modules/figlet/fonts/Graffiti.flf
+section32/PackageJson/node_modules/figlet/fonts/Greek.flf
+section32/PackageJson/node_modules/figlet/fonts/Heart Left.flf
+section32/PackageJson/node_modules/figlet/fonts/Heart Right.flf
+section32/PackageJson/node_modules/figlet/fonts/Henry 3D.flf
+section32/PackageJson/node_modules/figlet/fonts/Hex.flf
+section32/PackageJson/node_modules/figlet/fonts/Hieroglyphs.flf
+section32/PackageJson/node_modules/figlet/fonts/Hollywood.flf
+section32/PackageJson/node_modules/figlet/fonts/Horizontal Left.flf
+section32/PackageJson/node_modules/figlet/fonts/Horizontal Right.flf
+section32/PackageJson/node_modules/figlet/fonts/ICL-1900.flf
+section32/PackageJson/node_modules/figlet/fonts/Impossible.flf
+section32/PackageJson/node_modules/figlet/fonts/Invita.flf
+section32/PackageJson/node_modules/figlet/fonts/Isometric1.flf
+section32/PackageJson/node_modules/figlet/fonts/Isometric2.flf
+section32/PackageJson/node_modules/figlet/fonts/Isometric3.flf
+section32/PackageJson/node_modules/figlet/fonts/Isometric4.flf
+section32/PackageJson/node_modules/figlet/fonts/Italic.flf
+section32/PackageJson/node_modules/figlet/fonts/Ivrit.flf
+section32/PackageJson/node_modules/figlet/fonts/Jacky.flf
+section32/PackageJson/node_modules/figlet/fonts/Jazmine.flf
+section32/PackageJson/node_modules/figlet/fonts/Jerusalem.flf
+section32/PackageJson/node_modules/figlet/fonts/JS Block Letters.flf
+section32/PackageJson/node_modules/figlet/fonts/JS Bracket Letters.flf
+section32/PackageJson/node_modules/figlet/fonts/JS Capital Curves.flf
+section32/PackageJson/node_modules/figlet/fonts/JS Cursive.flf
+section32/PackageJson/node_modules/figlet/fonts/JS Stick Letters.flf
+section32/PackageJson/node_modules/figlet/fonts/Katakana.flf
+section32/PackageJson/node_modules/figlet/fonts/Kban.flf
+section32/PackageJson/node_modules/figlet/fonts/Keyboard.flf
+section32/PackageJson/node_modules/figlet/fonts/Knob.flf
+section32/PackageJson/node_modules/figlet/fonts/Konto Slant.flf
+section32/PackageJson/node_modules/figlet/fonts/Konto.flf
+section32/PackageJson/node_modules/figlet/fonts/Larry 3D 2.flf
+section32/PackageJson/node_modules/figlet/fonts/Larry 3D.flf
+section32/PackageJson/node_modules/figlet/fonts/LCD.flf
+section32/PackageJson/node_modules/figlet/fonts/Lean.flf
+section32/PackageJson/node_modules/figlet/fonts/Letters.flf
+section32/PackageJson/node_modules/figlet/fonts/Lil Devil.flf
+section32/PackageJson/node_modules/figlet/fonts/Line Blocks.flf
+section32/PackageJson/node_modules/figlet/fonts/Linux.flf
+section32/PackageJson/node_modules/figlet/fonts/Lockergnome.flf
+section32/PackageJson/node_modules/figlet/fonts/Madrid.flf
+section32/PackageJson/node_modules/figlet/fonts/Marquee.flf
+section32/PackageJson/node_modules/figlet/fonts/Maxfour.flf
+section32/PackageJson/node_modules/figlet/fonts/Merlin1.flf
+section32/PackageJson/node_modules/figlet/fonts/Merlin2.flf
+section32/PackageJson/node_modules/figlet/fonts/Mike.flf
+section32/PackageJson/node_modules/figlet/fonts/Mini.flf
+section32/PackageJson/node_modules/figlet/fonts/Mirror.flf
+section32/PackageJson/node_modules/figlet/fonts/Mnemonic.flf
+section32/PackageJson/node_modules/figlet/fonts/Modular.flf
+section32/PackageJson/node_modules/figlet/fonts/Morse.flf
+section32/PackageJson/node_modules/figlet/fonts/Morse2.flf
+section32/PackageJson/node_modules/figlet/fonts/Moscow.flf
+section32/PackageJson/node_modules/figlet/fonts/Mshebrew210.flf
+section32/PackageJson/node_modules/figlet/fonts/Muzzle.flf
+section32/PackageJson/node_modules/figlet/fonts/Nancyj-Fancy.flf
+section32/PackageJson/node_modules/figlet/fonts/Nancyj-Improved.flf
+section32/PackageJson/node_modules/figlet/fonts/Nancyj-Underlined.flf
+section32/PackageJson/node_modules/figlet/fonts/Nancyj.flf
+section32/PackageJson/node_modules/figlet/fonts/Nipples.flf
+section32/PackageJson/node_modules/figlet/fonts/NScript.flf
+section32/PackageJson/node_modules/figlet/fonts/NT Greek.flf
+section32/PackageJson/node_modules/figlet/fonts/NV Script.flf
+section32/PackageJson/node_modules/figlet/fonts/O8.flf
+section32/PackageJson/node_modules/figlet/fonts/Octal.flf
+section32/PackageJson/node_modules/figlet/fonts/Ogre.flf
+section32/PackageJson/node_modules/figlet/fonts/Old Banner.flf
+section32/PackageJson/node_modules/figlet/fonts/OS2.flf
+section32/PackageJson/node_modules/figlet/fonts/Pagga.flf
+section32/PackageJson/node_modules/figlet/fonts/Patorjk-HeX.flf
+section32/PackageJson/node_modules/figlet/fonts/Patorjk's Cheese.flf
+section32/PackageJson/node_modules/figlet/fonts/Pawp.flf
+section32/PackageJson/node_modules/figlet/fonts/Peaks Slant.flf
+section32/PackageJson/node_modules/figlet/fonts/Peaks.flf
+section32/PackageJson/node_modules/figlet/fonts/Pebbles.flf
+section32/PackageJson/node_modules/figlet/fonts/Pepper.flf
+section32/PackageJson/node_modules/figlet/fonts/Poison.flf
+section32/PackageJson/node_modules/figlet/fonts/Puffy.flf
+section32/PackageJson/node_modules/figlet/fonts/Puzzle.flf
+section32/PackageJson/node_modules/figlet/fonts/Pyramid.flf
+section32/PackageJson/node_modules/figlet/fonts/Rammstein.flf
+section32/PackageJson/node_modules/figlet/fonts/Rectangles.flf
+section32/PackageJson/node_modules/figlet/fonts/Red Phoenix.flf
+section32/PackageJson/node_modules/figlet/fonts/Relief.flf
+section32/PackageJson/node_modules/figlet/fonts/Relief2.flf
+section32/PackageJson/node_modules/figlet/fonts/Reverse.flf
+section32/PackageJson/node_modules/figlet/fonts/Roman.flf
+section32/PackageJson/node_modules/figlet/fonts/Rot13.flf
+section32/PackageJson/node_modules/figlet/fonts/Rotated.flf
+section32/PackageJson/node_modules/figlet/fonts/Rounded.flf
+section32/PackageJson/node_modules/figlet/fonts/Rowan Cap.flf
+section32/PackageJson/node_modules/figlet/fonts/Rozzo.flf
+section32/PackageJson/node_modules/figlet/fonts/Runic.flf
+section32/PackageJson/node_modules/figlet/fonts/Runyc.flf
+section32/PackageJson/node_modules/figlet/fonts/S Blood.flf
+section32/PackageJson/node_modules/figlet/fonts/Santa Clara.flf
+section32/PackageJson/node_modules/figlet/fonts/Script.flf
+section32/PackageJson/node_modules/figlet/fonts/Serifcap.flf
+section32/PackageJson/node_modules/figlet/fonts/Shadow.flf
+section32/PackageJson/node_modules/figlet/fonts/Shimrod.flf
+section32/PackageJson/node_modules/figlet/fonts/Short.flf
+section32/PackageJson/node_modules/figlet/fonts/SL Script.flf
+section32/PackageJson/node_modules/figlet/fonts/Slant Relief.flf
+section32/PackageJson/node_modules/figlet/fonts/Slant.flf
+section32/PackageJson/node_modules/figlet/fonts/Slide.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Caps.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Isometric1.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Keyboard.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Poison.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Script.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Shadow.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Slant.flf
+section32/PackageJson/node_modules/figlet/fonts/Small Tengwar.flf
+section32/PackageJson/node_modules/figlet/fonts/Small.flf
+section32/PackageJson/node_modules/figlet/fonts/Soft.flf
+section32/PackageJson/node_modules/figlet/fonts/Speed.flf
+section32/PackageJson/node_modules/figlet/fonts/Spliff.flf
+section32/PackageJson/node_modules/figlet/fonts/Stacey.flf
+section32/PackageJson/node_modules/figlet/fonts/Stampate.flf
+section32/PackageJson/node_modules/figlet/fonts/Stampatello.flf
+section32/PackageJson/node_modules/figlet/fonts/Standard.flf
+section32/PackageJson/node_modules/figlet/fonts/Star Strips.flf
+section32/PackageJson/node_modules/figlet/fonts/Star Wars.flf
+section32/PackageJson/node_modules/figlet/fonts/Stellar.flf
+section32/PackageJson/node_modules/figlet/fonts/Stforek.flf
+section32/PackageJson/node_modules/figlet/fonts/Stick Letters.flf
+section32/PackageJson/node_modules/figlet/fonts/Stop.flf
+section32/PackageJson/node_modules/figlet/fonts/Straight.flf
+section32/PackageJson/node_modules/figlet/fonts/Stronger Than All.flf
+section32/PackageJson/node_modules/figlet/fonts/Sub-Zero.flf
+section32/PackageJson/node_modules/figlet/fonts/Swamp Land.flf
+section32/PackageJson/node_modules/figlet/fonts/Swan.flf
+section32/PackageJson/node_modules/figlet/fonts/Sweet.flf
+section32/PackageJson/node_modules/figlet/fonts/Tanja.flf
+section32/PackageJson/node_modules/figlet/fonts/Tengwar.flf
+section32/PackageJson/node_modules/figlet/fonts/Term.flf
+section32/PackageJson/node_modules/figlet/fonts/Test1.flf
+section32/PackageJson/node_modules/figlet/fonts/The Edge.flf
+section32/PackageJson/node_modules/figlet/fonts/Thick.flf
+section32/PackageJson/node_modules/figlet/fonts/Thin.flf
+section32/PackageJson/node_modules/figlet/fonts/THIS.flf
+section32/PackageJson/node_modules/figlet/fonts/Thorned.flf
+section32/PackageJson/node_modules/figlet/fonts/Three Point.flf
+section32/PackageJson/node_modules/figlet/fonts/Ticks Slant.flf
+section32/PackageJson/node_modules/figlet/fonts/Ticks.flf
+section32/PackageJson/node_modules/figlet/fonts/Tiles.flf
+section32/PackageJson/node_modules/figlet/fonts/Tinker-Toy.flf
+section32/PackageJson/node_modules/figlet/fonts/Tombstone.flf
+section32/PackageJson/node_modules/figlet/fonts/Train.flf
+section32/PackageJson/node_modules/figlet/fonts/Trek.flf
+section32/PackageJson/node_modules/figlet/fonts/Tsalagi.flf
+section32/PackageJson/node_modules/figlet/fonts/Tubular.flf
+section32/PackageJson/node_modules/figlet/fonts/Twisted.flf
+section32/PackageJson/node_modules/figlet/fonts/Two Point.flf
+section32/PackageJson/node_modules/figlet/fonts/Univers.flf
+section32/PackageJson/node_modules/figlet/fonts/USA Flag.flf
+section32/PackageJson/node_modules/figlet/fonts/Varsity.flf
+section32/PackageJson/node_modules/figlet/fonts/Wavy.flf
+section32/PackageJson/node_modules/figlet/fonts/Weird.flf
+section32/PackageJson/node_modules/figlet/fonts/Wet Letter.flf
+section32/PackageJson/node_modules/figlet/fonts/Whimsy.flf
+section32/PackageJson/node_modules/figlet/fonts/Wow.flf
+section32/PackageJson/node_modules/figlet/importable-fonts/1Row.js
+section32/PackageJson/node_modules/figlet/importable-fonts/3-D.js
+section32/PackageJson/node_modules/figlet/importable-fonts/3D Diagonal.js
+section32/PackageJson/node_modules/figlet/importable-fonts/3D-ASCII.js
+section32/PackageJson/node_modules/figlet/importable-fonts/3x5.js
+section32/PackageJson/node_modules/figlet/importable-fonts/4Max.js
+section32/PackageJson/node_modules/figlet/importable-fonts/5 Line Oblique.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Acrobatic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Alligator.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Alligator2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Alpha.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Alphabet.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC 3 Line.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC 3 Liv1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC AAA01.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Neko.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Razor.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Razor2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Slash.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Slider.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Thin.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Tubes.js
+section32/PackageJson/node_modules/figlet/importable-fonts/AMC Untitled.js
+section32/PackageJson/node_modules/figlet/importable-fonts/ANSI Regular.js
+section32/PackageJson/node_modules/figlet/importable-fonts/ANSI Shadow.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Arrows.js
+section32/PackageJson/node_modules/figlet/importable-fonts/ASCII New Roman.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Avatar.js
+section32/PackageJson/node_modules/figlet/importable-fonts/B1FF.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Banner.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Banner3-D.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Banner3.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Banner4.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Barbwire.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Basic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bear.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bell.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Benjamin.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big Chief.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big Money-ne.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big Money-nw.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big Money-se.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big Money-sw.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Big.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bigfig.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Binary.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Block.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Blocks.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bloody.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bolger.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Braced.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bright.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Broadway KB.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Broadway.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bubble.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Bulbhead.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Caligraphy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Caligraphy2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Calvin S.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cards.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Catwalk.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Chiseled.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Chunky.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Coinstak.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cola.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Colossal.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Computer.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Contessa.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Contrast.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cosmike.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Crawford.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Crawford2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Crazy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cricket.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cursive.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cyberlarge.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cybermedium.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cybersmall.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Cygnet.js
+section32/PackageJson/node_modules/figlet/importable-fonts/DANC4.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Dancing Font.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Decimal.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Def Leppard.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Delta Corps Priest 1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Diamond.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Diet Cola.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Digital.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Doh.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Doom.js
+section32/PackageJson/node_modules/figlet/importable-fonts/DOS Rebel.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Dot Matrix.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Double Shorts.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Double.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Dr Pepper.js
+section32/PackageJson/node_modules/figlet/importable-fonts/DWhistled.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Chess.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Font.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Italic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Piti.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Robot.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Wall.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Efti Water.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Electronic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Elite.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Epic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fender.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Filter.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fire Font-k.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fire Font-s.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Flipped.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Flower Power.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Four Tops.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fraktur.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fun Face.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fun Faces.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Fuzzy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Georgi16.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Georgia11.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ghost.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ghoulish.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Glenyn.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Goofy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Gothic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Graceful.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Gradient.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Graffiti.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Greek.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Heart Left.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Heart Right.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Henry 3D.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Hex.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Hieroglyphs.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Hollywood.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Horizontal Left.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Horizontal Right.js
+section32/PackageJson/node_modules/figlet/importable-fonts/ICL-1900.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Impossible.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Invita.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Isometric1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Isometric2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Isometric3.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Isometric4.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Italic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ivrit.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Jacky.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Jazmine.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Jerusalem.js
+section32/PackageJson/node_modules/figlet/importable-fonts/JS Block Letters.js
+section32/PackageJson/node_modules/figlet/importable-fonts/JS Bracket Letters.js
+section32/PackageJson/node_modules/figlet/importable-fonts/JS Capital Curves.js
+section32/PackageJson/node_modules/figlet/importable-fonts/JS Cursive.js
+section32/PackageJson/node_modules/figlet/importable-fonts/JS Stick Letters.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Katakana.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Kban.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Keyboard.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Knob.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Konto Slant.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Konto.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Larry 3D 2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Larry 3D.js
+section32/PackageJson/node_modules/figlet/importable-fonts/LCD.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Lean.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Letters.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Lil Devil.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Line Blocks.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Linux.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Lockergnome.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Madrid.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Marquee.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Maxfour.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Merlin1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Merlin2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Mike.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Mini.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Mirror.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Mnemonic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Modular.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Morse.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Morse2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Moscow.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Mshebrew210.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Muzzle.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Nancyj-Fancy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Nancyj-Improved.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Nancyj-Underlined.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Nancyj.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Nipples.js
+section32/PackageJson/node_modules/figlet/importable-fonts/NScript.js
+section32/PackageJson/node_modules/figlet/importable-fonts/NT Greek.js
+section32/PackageJson/node_modules/figlet/importable-fonts/NV Script.js
+section32/PackageJson/node_modules/figlet/importable-fonts/O8.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Octal.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ogre.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Old Banner.js
+section32/PackageJson/node_modules/figlet/importable-fonts/OS2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Pagga.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Patorjk-HeX.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Patorjk's Cheese.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Pawp.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Peaks Slant.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Peaks.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Pebbles.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Pepper.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Poison.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Puffy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Puzzle.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Pyramid.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rammstein.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rectangles.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Red Phoenix.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Relief.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Relief2.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Reverse.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Roman.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rot13.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rotated.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rounded.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rowan Cap.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Rozzo.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Runic.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Runyc.js
+section32/PackageJson/node_modules/figlet/importable-fonts/S Blood.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Santa Clara.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Script.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Serifcap.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Shadow.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Shimrod.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Short.js
+section32/PackageJson/node_modules/figlet/importable-fonts/SL Script.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Slant Relief.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Slant.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Slide.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Caps.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Isometric1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Keyboard.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Poison.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Script.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Shadow.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Slant.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small Tengwar.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Small.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Soft.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Speed.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Spliff.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stacey.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stampate.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stampatello.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Standard.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Star Strips.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Star Wars.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stellar.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stforek.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stick Letters.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stop.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Straight.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Stronger Than All.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Sub-Zero.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Swamp Land.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Swan.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Sweet.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tanja.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tengwar.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Term.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Test1.js
+section32/PackageJson/node_modules/figlet/importable-fonts/The Edge.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Thick.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Thin.js
+section32/PackageJson/node_modules/figlet/importable-fonts/THIS.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Thorned.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Three Point.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ticks Slant.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Ticks.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tiles.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tinker-Toy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tombstone.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Train.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Trek.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tsalagi.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Tubular.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Twisted.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Two Point.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Univers.js
+section32/PackageJson/node_modules/figlet/importable-fonts/USA Flag.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Varsity.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Wavy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Weird.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Wet Letter.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Whimsy.js
+section32/PackageJson/node_modules/figlet/importable-fonts/Wow.js
+section32/PackageJson/node_modules/figlet/lib/figlet.js
+section32/PackageJson/node_modules/figlet/lib/node-figlet.js
+section32/PackageJson/node_modules/figlet/test/figlet_test.js
+section32/PackageJson/node_modules/figlet/test/expected/.gitattributes
+section32/PackageJson/node_modules/figlet/test/expected/dancingFont
+section32/PackageJson/node_modules/figlet/test/expected/dancingFontReverse
+section32/PackageJson/node_modules/figlet/test/expected/graffiti
+section32/PackageJson/node_modules/figlet/test/expected/standard
+section32/PackageJson/node_modules/figlet/test/expected/verticalSmushRule2
+section32/PackageJson/node_modules/figlet/test/expected/wrapSimple
+section32/PackageJson/node_modules/figlet/test/expected/wrapSimpleThreeLines
+section32/PackageJson/node_modules/figlet/test/expected/wrapWhitespaceBreakWord
+section32/PackageJson/node_modules/figlet/test/expected/wrapWhitespaceLogString
+section32/PackageJson/node_modules/figlet/test/expected/wrapWord
+section32/PackageJson/node_modules/figlet/test/expected/wrapWordThreeLines
+section32/PackageJson/node_modules/figlet/utils/flf-to-strings.js
