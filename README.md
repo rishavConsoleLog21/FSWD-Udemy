@@ -28,4 +28,5 @@ Common Security Issues - SQL Injection, XSS, etc.
 Developer Best Practices
 Deploying Apps
 Cloud Databases
-Image Upload and Storage And Last Maps and Geocoding.
+Image Upload and Storage And Last Maps and Geocoding
+EJS.
