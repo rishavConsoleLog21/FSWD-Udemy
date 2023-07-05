@@ -14,6 +14,11 @@ app.get('/rand', (req,res) => {
    res.render('random',{rand: randomNum})
 });
 
- app.listen(3000, () => {
+app.get('/rand/oddeven', (req,res) => {
+   const randomNum=Math.floor((Math.random() *21)+1);
+   res.render('ConditionalsEJS',{rand: randomNum})
+});
+
+app.listen(3000, () => {
     console.log('Listening On Port 3000')
  });
