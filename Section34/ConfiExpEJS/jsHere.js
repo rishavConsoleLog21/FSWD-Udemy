@@ -19,6 +19,12 @@ app.get('/rand/oddeven', (req,res) => {
    res.render('ConditionalsEJS',{rand: randomNum})
 });
 
+app.get('/dogs', (req, res) => {
+   const dogs = ['Blue', 'Rocky', 'Monty','Stephanie','Woody'
+   ]
+   res.render('dogs', { dogs })
+})
+
 app.listen(3000, () => {
     console.log('Listening On Port 3000')
  });
