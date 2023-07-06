@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Dogs</title>
-</head>
-<body>
+<%- include('partials/head.ejs') %>
+
     <h1>All The Dogs</h1>
     <ul>
         <% for(let dog of dogs) { %>
@@ -14,6 +8,4 @@
             </li>
         <% }; %>
     </ul>
-
-</body>
-</html>
+<%- include('partials/footer.ejs') %>

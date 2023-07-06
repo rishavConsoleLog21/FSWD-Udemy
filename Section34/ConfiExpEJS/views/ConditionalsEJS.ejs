@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Number</title>
-</head>
-<body>
+<%- include('partials/head.ejs') %>
+
+    <%- include('partials/navbar.ejs') %>
     <h1>Your Random Number is <%= rand %></h1>
     <% if (rand % 2 === 0) { %>
     <h2>That is an Even Number</h2>
@@ -14,5 +9,4 @@
     <% }%>
     <h3>That is an <%= rand % 2 === 0 ? 'Even' : 'Odd'%> Number</h3>
     
-</body>
-</html>
+    <%- include('partials/footer.ejs') %>

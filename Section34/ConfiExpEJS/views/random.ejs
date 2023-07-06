@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random</title>
-</head>
-<body>
-    <h1>Your Random Number Is <%=rand %></h1>
+<%- include('partials/head.ejs') %>
+
+    <%- include('partials/navbar.ejs') %>
+
+    <h1>Your Random Number Is <%= randomNum %></h1>
     <p>Rishav, Lorem ipsum dolor sit amet consectetur adipisicing elit. 
         Et, natus incidunt tempora rerum cupiditate qui necessitatibus perferendis perspiciatis, 
         placeat voluptate, labore ex sequi deserunt numquam ipsa magni nihil dolorum.
     </p>
-</body>
-</html>
+<%- include('partials/footer.ejs') %>
