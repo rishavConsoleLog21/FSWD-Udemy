@@ -1,6 +1,7 @@
 const path = require('path');
 const express = require('express');
 const app = express();
+const { v4: uuid } = require('uuid'); //to give new id to new comments
 
 
 //To parse form data in POST request body:
@@ -14,22 +15,22 @@ app.set('view engine', 'ejs')
 // Our fake database:
 const comments = [
     {
-        id: 1,
+        id: uuid(),
         username: 'Todd',
         comment: 'lol that is so funny!'
     },
     {
-        id: 2,
+        id: uuid(),
         username: 'Skyler',
         comment: 'I like to go birdwatching with my dog'
     },
     {   
-        id: 3,
+        id: uuid(),
         username: 'Sk8erBoi',
         comment: 'Plz delete your account, Todd'
     },
     {
-        id: 4,
+        id: uuid(),
         username: 'onlysayswoof',
         comment: 'woof woof woof'
     }
@@ -47,13 +48,13 @@ app.get('/comments/new', (req,res) => {
 
 app.post('/comments', (req,res) => {
     const { username, comment} = req.body;
-    comments.push({username, comment})
+    comments.push({username, comment, id: uuid() })
     res.redirect('/comments');
 })
 
 app.get('/comments/:id', (req, res) => {
     const { id } = req.params;
-    const comment = comments.find(c => c.id === parseInt(id));
+    const comment = comments.find(c => c.id === id);
     res.render('comments/details.ejs', {comment})
 })
 
