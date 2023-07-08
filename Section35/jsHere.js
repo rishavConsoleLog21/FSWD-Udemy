@@ -44,7 +44,7 @@ app.get('/comments/new', (req,res) => {
 app.post('/comments', (req,res) => {
     const { username, comment} = req.body;
     comments.push({username, comment})
-    res.send('working');
+    res.redirect('/comments');
 })
 
 app.get('/burger', (req, res) => {
