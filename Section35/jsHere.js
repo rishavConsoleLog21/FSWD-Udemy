@@ -55,7 +55,21 @@ app.post('/comments', (req,res) => {
 app.get('/comments/:id', (req, res) => {
     const { id } = req.params;
     const comment = comments.find(c => c.id === id);
-    res.render('comments/details.ejs', {comment})
+    res.render('comments/details', { comment })
+})
+
+app.get('/comments/:id/edit', (req, res) => {
+    const { id } = req.params;
+    const comment =comments.find(c => c.id === id);
+    res.render('/comments/edit', { comment })
+})
+
+app.patch('/comments/:id', (req, res) => {
+    const {id} = req.params;
+    const newComment = req.body.comment;
+    const editComment = comments.find(c => c.id === id);
+    editComment.comment = newComment;
+    res.redirect('/comments')
 })
 
 app.get('/burger', (req, res) => {
