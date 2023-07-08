@@ -1,4 +1,5 @@
 const path = require('path');
+const methodOverride = require('method-override')
 const express = require('express');
 const app = express();
 const { v4: uuid } = require('uuid'); //to give new id to new comments
@@ -69,6 +70,12 @@ app.patch('/comments/:id', (req, res) => {
     const newComment = req.body.comment;
     const editComment = comments.find(c => c.id === id);
     editComment.comment = newComment;
+    res.redirect('/comments')
+})
+
+app.delete('/comments/:id', (req, res) => {
+    const {id} = req.params;
+    comments = comments.filter(c => c.id !== id);
     res.redirect('/comments')
 })
 
