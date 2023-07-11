@@ -40,15 +40,30 @@ mongoose.connect('mongodb://127.0.0.1:27017/shopApp', { useNewUrlParser: true})
         }
     });
 
+    productSchema.methods.greet = function () {
+        console.log('Hello Hi')
+        console.log(`-from ${this.name}`)
+    }
+    
     const Product = mongoose.model('Product', productSchema);
+    
+    const findProduct = async () => {
+        const foundProduct = await Product.findOne({name: 'Mountain Bike'});
+        foundProduct.greet();
+    }
+    
+findProduct();
 
-    const bike = new Product({name: 'Mountain Bike',price: 599, categories: ['Cycling', 'Safety']})
-    bike.save()
-        .then(data => {
-            console.log('It worked')
-            console.log(data);
-        })
-        .catch(err => {
-            console.log('Oh no error')
-            console.log(err)
-        })
+
+    // const Product = mongoose.model('Product', productSchema);
+
+    // const bike = new Product({name: 'Mountain Bike',price: 599, categories: ['Cycling', 'Safety']})
+    // bike.save()
+    //     .then(data => {
+    //         console.log('It worked')
+    //         console.log(data);
+    //     })
+    //     .catch(err => {
+    //         console.log('Oh no error')
+    //         console.log(err)
+    //     })
