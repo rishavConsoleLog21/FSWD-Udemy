@@ -21,8 +21,8 @@ mongoose.connect('mongodb://127.0.0.1:27017/farmStore', { useNewUrlParser: true,
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 
-app.use(express.urlencoded({extended: true}))
-app.use(methodOverride('_method'))
+app.use(express.urlencoded({extended: true}));
+app.use(methodOverride('_method'));
 
 const categories = ['fruit', 'vegetable', 'dairy'];
 
@@ -33,7 +33,7 @@ app.get('/products', async (req, res) => {
 })
 
 app.get('/products/newProduct', (req,res) => {
-    res.render('products/newProduct.ejs')
+    res.render('products/newProduct', { categories })
 })
 
 app.post('/products',async (req, res) => {
@@ -51,7 +51,7 @@ app.get('/products/:id', async (req,res) => {
 app.get('/products/:id/edit', async (req, res) => {
     const { id } = req.params;
     const product = await Product.findById(id);
-    res.render('products/edit', { product })
+    res.render('products/edit', { product, categories })
 })
 
 app.put('/products/:id', async (req, res) => {
@@ -60,6 +60,11 @@ app.put('/products/:id', async (req, res) => {
     res.redirect(`/products/${product._id}`)
 })
 
+app.delete('/products/:id', async (req, res) => {
+    const { id } = req.params;
+    const deletedProduct = await Product.findByIdAndDelete(id);
+    res.redirect('/products');
+})
 app.listen(3000, () => {
     console.log('App Is Listening On Port 3000')
 })
