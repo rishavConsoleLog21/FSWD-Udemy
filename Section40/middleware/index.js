@@ -20,8 +20,13 @@ const verifyPassword = (req, res, next) => {
     if (password === 'chickennugget') {
         next();
     }
-    res.send("YOU NEED A PASSWORD!")
+    // res.send("YOU NEED A PASSWORD!")
+    throw new Error('Password Required')
 }
+
+app.get('/error', (req, res) => {
+    chicken.fly()
+})
 
 app.get('/', (req, res)=> {
     res.send('Home page')
@@ -37,6 +42,12 @@ app.get('/secret', verifyPassword, (req, res) => {
 
 app.use((req, res) => {
     res.status(404).send('NOT FOUND!')
+})
+
+app.use((err, req, res, next) => {
+    console.log('******************************')
+    console.log('************ERROR*************')
+    console.log('******************************')
 })
 
 app.listen(3000, () => {
