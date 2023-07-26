@@ -5,6 +5,8 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 const session = require('express-session');
 
+const sessionOption = {secret: 'notgoodsecret', resave: false, saveUninitialized: false}
+
 mongoose.connect('mongodb://127.0.0.1:27017/authDemo', { useNewUrlParser: true,  useUnifiedTopology: true})
     .then(() => {
         console.log('mongo connection successful') 
@@ -18,7 +20,7 @@ app.set('view engine', 'ejs' );
 app.set('views', 'views');
 
 app.use(express.urlencoded({ extended: true}));
-app.use(session({secret: 'notgoodsecret'}))
+app.use(session(sessionOption))
 
 app.get('/', (req,res) => {
     res.send('This is the home page')
@@ -57,11 +59,17 @@ app.post('/login',async (req,res) => {
     }
 })
 
+app.post('/logout', (req, res) => {
+    // req.session.user_id = null;
+    req.session.destroy(); // this destroy every session data 
+    res.redirect('/login');
+})
+
 app.get('/secret', (req,res) => {
     if(!req.session.user_id) {
-        res.redirect('/login')
+        return res.redirect('/login')
     }
-    res.send('this is secret!!')
+    res.render('secret')
 })
 
 app.listen(3000, () => {
