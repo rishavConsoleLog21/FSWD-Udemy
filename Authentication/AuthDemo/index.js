@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 const session = require('express-session');
 
-const sessionOption = {secret: 'notgoodsecret', resave: false, saveUninitialized: false}
+// const sessionOption = {secret: 'notgoodsecret', resave: false, saveUninitialized: false}
 
 mongoose.connect('mongodb://127.0.0.1:27017/authDemo', { useNewUrlParser: true,  useUnifiedTopology: true})
     .then(() => {
@@ -20,10 +20,10 @@ app.set('view engine', 'ejs' );
 app.set('views', 'views');
 
 app.use(express.urlencoded({ extended: true}));
-app.use(session(sessionOption))
+app.use(session({secret: 'notgoodsecret'}))
 
 const requireLogin = (req, res, next)=> { 
-    if (!req.body.user_id) {
+    if (!req.session.user_id) {
         return res.redirect('/login')
     }
     next();
@@ -39,11 +39,7 @@ app.get('/register', (req,res) => {
 
 app.post('/register', async (req,res) => {
     const {password, username} = req.body;
-    const hash = await bcrypt.hash(password, 12);
-    const user = new User({
-        username,
-        password: hash
-    })
+    const user = new User({ username, password})
     await user.save();
     req.session.user_id = user._id;
     res.redirect('/')
@@ -55,10 +51,9 @@ app.get('/login', (req,res) => {
 
 app.post('/login',async (req,res) => {
     const { username, password } = req.body;
-    const user = await User.findOne({ username});
-    const validUser = await bcrypt.compare(password, user.password);
-    if(validUser) {
-        req.session.user_id = user._id;
+    const foundUser = await User.findAndValidate(username, password)
+    if(foundUser) {
+        req.session.user_id = foundUser._id;
         res.redirect('/secret')
     }
     else{
@@ -67,8 +62,8 @@ app.post('/login',async (req,res) => {
 })
 
 app.post('/logout', (req, res) => {
-    // req.session.user_id = null;
-    req.session.destroy(); // this destroy every session data 
+    req.session.user_id = null;
+    // req.session.destroy(); // this destroy every session data 
     res.redirect('/login');
 })
 
