@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import RandomPokemon from "./RandomPokemon"
+import Greeter from './Greeter'
 import './App.css'
 
 function App() {
@@ -7,7 +8,8 @@ function App() {
     <>
       <h1>Guess The Pokemon ?</h1>
       <div>
-        <RandomPokemon/>
+        <Greeter person="Rishav" />
+        {/* <RandomPokemon/> */}
       </div>
     </>
   )
