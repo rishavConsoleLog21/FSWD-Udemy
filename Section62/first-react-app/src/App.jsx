@@ -6,6 +6,7 @@ import Die from './Die'
 import ListPicker from './ListPicker'
 import DoubleDie from './DoubleDie'
 import Heading from './Heading'
+import ColorList from './ColorList'
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
       <DoubleDie/>
       <DoubleDie/>
       <DoubleDie/>
+
+      <ColorList colors={["red","pink","purple","teal"]}/>
       {/* <ListPicker values={[1,2,3]}/>
       <ListPicker values={["a","b","c"]}/> */}
       {/* <h1>Guess The Pokemon ?</h1>
