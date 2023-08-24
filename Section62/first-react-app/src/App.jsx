@@ -5,11 +5,13 @@ import Greeter from './Greeter'
 import Die from './Die'
 import ListPicker from './ListPicker'
 import DoubleDie from './DoubleDie'
-
+import Heading from './Heading'
 
 function App() {
   return (
     <div>
+      <Heading color="magenta" text="Welcome!!" fontSize="48px"/>
+      <Heading color="magenta" text="User" fontSize="20px"/>
       <DoubleDie/>
       <DoubleDie/>
       <DoubleDie/>

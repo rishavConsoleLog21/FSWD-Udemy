@@ -1,10 +1,12 @@
 export default function DoubleDie() {
     const num1 = Math.floor(Math.random() * 4) + 1; 
     const num2 = Math.floor(Math.random() * 4) + 1; 
+    const isWinner = num1 === num2;
+    const styles = { color: isWinner ? "green" : "red"}
     return (
-        <div>
+        <div className="DoubleDie" style={styles}>
             <h2>Double Dice Game</h2>
-            {num1 === num2 && <h3>You Win :)</h3>}
+            {isWinner && <h3>You Win :)</h3>}
             <p>num1: {num1}</p>
             <p>num2: {num2}</p>
         </div>
