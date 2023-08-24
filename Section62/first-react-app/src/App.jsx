@@ -10,11 +10,11 @@ import ColorList from './ColorList'
 import ShoppingList from './ShoppingList'
 
 const data = [
-  { Name: "egg", quantity: 12, completed: false},
-  { Name: "milk", quantity: 2, completed: true},
-  { Name: "chicken breasts", quantity: 6, completed: false},
-  { Name: "carrots", quantity: 5, completed: true},
-  { Name: "capsicum", quantity: 2, completed: false}
+  {id: 1, item: "egg", quantity: 12, completed: false},
+  {id: 2, item: "milk", quantity: 2, completed: true},
+  {id: 3, item: "chicken breasts", quantity: 6, completed: false},
+  {id: 4, item: "carrots", quantity: 5, completed: true},
+  {id: 5, item: "capsicum", quantity: 2, completed: false}
 ]
 
 function App() {

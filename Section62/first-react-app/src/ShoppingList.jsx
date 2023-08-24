@@ -1,12 +1,15 @@
+import ShoppingListitem from "./ShoppingListitem"
 export default function ShoppingList({items}) {
 return (
     <ul>
         {items.map((i) => (
-        <li style={{
-            color: i.completed ? "grey" : "red", 
-            textDecoration: i.completed ? "line-through" : "none"}}>
-            {i.Name} - {i.quantity}
-        </li>
+        <ShoppingListitem
+            key={i.id}
+            item={i.item} 
+            quantity={i.quantity} 
+            completed={i.completed}/>
+        // <ShoppingListitem key={i.id} {...i}/>
+        //above is the spread operator
         ))}
     </ul>
 )
