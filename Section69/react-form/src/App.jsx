@@ -2,12 +2,16 @@ import './App.css'
 import UserForm from './UserForm'
 import SignupForm from './SignupForm'
 import BetterSignupForm from './BetterSignupForm'
+import ShoppingListForm from './ShoppingListForm'
+import ShoppingList from './ShoppingList'
 
 function App() {
   return (
     <div>
-      <BetterSignupForm />
-      {/* <SignupForm />
+      <ShoppingList />
+      {/* <ShoppingListForm /> */}
+      {/* <BetterSignupForm />
+      <SignupForm />
       <UserForm /> */}
     </div>
   )

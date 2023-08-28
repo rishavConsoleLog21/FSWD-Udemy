@@ -10,8 +10,7 @@ export default function BetterSignupForm() {
     const changeField = evt.target.name;
     const newValue = evt.target.value;
     setFormData((currData) => {
-      currData[changeField] = newValue;
-      return { ...currData };
+      return { ...currData, [changeField]: newValue };
     });
   };
   return (
@@ -22,7 +21,7 @@ export default function BetterSignupForm() {
         placeholder="firstname"
         value={formData.firstName}
         onChange={handleChange}
-        name="firstName"
+        name="firstName" // very important
         id="firstname"
       />
       <label htmlFor="lastname">Enter A lastname</label>
@@ -31,7 +30,7 @@ export default function BetterSignupForm() {
         placeholder="lastname"
         value={formData.lastName}
         onChange={handleChange}
-        name="lastName"
+        name="lastName" // very important
         id="lastname"
       />
       <label htmlFor="password">Enter A password</label>
