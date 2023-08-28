@@ -1,11 +1,12 @@
 import './App.css'
 import UserForm from './UserForm'
-
+import SignupForm from './SignupForm'
 
 function App() {
   return (
     <div>
-      <UserForm />
+      <SignupForm />
+      {/* <UserForm /> */}
     </div>
   )
 }
